@@ -9,6 +9,3 @@
 	path = library
 	url = https://github.com/galopago/kicad-symbols
 	branch = RAK4200
-[submodule "packages3D"]
-	path = packages3D
-	url = https://github.com/KiCad/kicad-packages3D
