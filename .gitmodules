@@ -1,6 +1,2 @@
 
 
-[submodule "library"]
-	path = library
-	url = https://github.com/galopago/kicad-symbols
-	branch = RAK4200
