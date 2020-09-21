@@ -1,10 +1,5 @@
 
 
-[submodule "modules"]
-	path = modules
-	url = https://github.com/galopago/kicad-footprints
-	branch = RAK4200-FOOTPRINT
-
 [submodule "library"]
 	path = library
 	url = https://github.com/galopago/kicad-symbols
